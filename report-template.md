@@ -1,4 +1,3 @@
-# Module 20 Report Template
 
 ## Overview of the Analysis
 
